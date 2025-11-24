@@ -14,13 +14,7 @@ X‑Marks‑the‑Spot is a two-player game (similar to Tic‑Tac‑Toe) where p
 - Simple and clean user interface for easy gameplay  
 
 ## How to Run  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Srujan57/X‑marks‑the‑spot.git
-Navigate into the project directory:
-bash
-Copy code
-cd X‑marks‑the‑spot
+1. Clone the repository  
 Open the project in your IDE (IntelliJ, VS Code, etc.).
 Run the main class.
 
