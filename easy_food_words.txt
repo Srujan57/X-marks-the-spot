@@ -1,0 +1,10 @@
+apple
+bread
+milk
+cheese
+egg
+rice
+tea
+fish
+cake
+butter

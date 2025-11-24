@@ -1,0 +1,10 @@
+axolotl
+cassowary
+pangolin
+echidna
+aardvark
+narwhal
+dugong
+kinkajou
+quokka
+okapi

@@ -1,0 +1,10 @@
+cat
+dog
+bat
+cow
+fox
+frog
+fish
+bear
+hen
+rat

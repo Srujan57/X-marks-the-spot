@@ -1,0 +1,10 @@
+tiger
+zebra
+rabbit
+panda
+koala
+otter
+parrot
+falcon
+beaver
+giraffe

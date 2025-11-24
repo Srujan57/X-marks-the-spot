@@ -1,0 +1,10 @@
+ball
+run
+goal
+team
+game
+coach
+kick
+win
+race
+bat

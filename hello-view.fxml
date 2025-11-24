@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.GridPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="478.0" prefWidth="649.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.template.HelloController">
+   <children>
+      <GridPane fx:id="gdpGrid" gridLinesVisible="true" layoutX="14.0" layoutY="115.0" prefHeight="206.0" prefWidth="408.0">
+
+      </GridPane>
+      <Button fx:id="btnMakePuzzle" disable="true" layoutX="494.0" layoutY="399.0" mnemonicParsing="false" onAction="#handleMakePuzzle" text="Make Puzzle" textFill="#f80707" />
+      <Button fx:id="btnCheck" layoutX="511.0" layoutY="90.0" mnemonicParsing="false" onAction="#handleCheck" text="Check" textFill="#f80707" disable="true"/>
+      <ListView fx:id="lstWords" layoutX="436.0" layoutY="118.0" prefHeight="200.0" prefWidth="200.0" />
+      <Button fx:id="btnEasy" disable="true" layoutX="443.0" layoutY="359.0" mnemonicParsing="false" onAction="#handleEasy" text="Easy" textFill="#f80707" />
+      <Button fx:id="btnHard" disable="true" layoutX="582.0" layoutY="359.0" mnemonicParsing="false" onAction="#handleHard" text="Hard" textFill="#f80707" />
+      <Button fx:id="btnMedium" disable="true" layoutX="505.0" layoutY="359.0" mnemonicParsing="false" onAction="#handleMedium" text="Medium" textFill="#f80707" />
+      <Button fx:id="btnAnimals" disable="true" layoutX="454.0" layoutY="321.0" mnemonicParsing="false" onAction="#handleAnimals" text="Animals" textFill="#f80707" />
+      <Button fx:id="btnRestart" layoutX="571.0" layoutY="13.0" mnemonicParsing="false" onAction="#handleRestart" text="Restart" textFill="#f80707" visible="false" />
+      <Label fx:id="lblEnd" layoutX="274.0" layoutY="17.0" />
+      <TextField fx:id="txtInput" layoutX="45.0" layoutY="13.0" />
+      <Button fx:id="btnMakeGrid" layoutX="84.0" layoutY="45.0" mnemonicParsing="false" onAction="#handleMakeGrid" text="Make Grid" />
+      <Button fx:id="btnFood" disable="true" layoutX="523.0" layoutY="321.0" mnemonicParsing="false" onAction="#handleFood" text="Food" textFill="#f80707" />
+      <Button fx:id="btnSports" disable="true" layoutX="576.0" layoutY="321.0" mnemonicParsing="false" onAction="#handleSports" text="Sports" textFill="#f80707" />
+   </children>
+</AnchorPane>

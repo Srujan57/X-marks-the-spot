@@ -1,0 +1,10 @@
+bagel
+spinach
+pumpkin
+yogurt
+mushroom
+pasta
+carrot
+chicken
+biscuit
+honey

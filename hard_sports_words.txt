@@ -1,0 +1,10 @@
+decathlon
+equestrian
+biathlon
+trapeze
+yachting
+shuttlecock
+pentathlon
+skiathlon
+speedway
+windsurfing

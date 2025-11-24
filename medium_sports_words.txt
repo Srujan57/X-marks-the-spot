@@ -1,0 +1,10 @@
+athlete
+stadium
+hurdle
+referee
+tournament
+medal
+racket
+cricket
+boxing
+rowing
